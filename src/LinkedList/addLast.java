@@ -3,7 +3,7 @@ package LinkedList;
 public class addLast {
 
     // Node class
-    public static class Node {
+    public  class Node {
         int data;
         Node next;
 
