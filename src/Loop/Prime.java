@@ -16,6 +16,7 @@ public class Prime {
                 break;
             }
         }
-        if(x==0) System.out.println("Prime Number");
+        if(n==1) System.out.println("Neither prime nor Composite");
+        else if(x==0) System.out.println("Prime Number");
     }
 }
